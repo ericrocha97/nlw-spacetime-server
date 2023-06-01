@@ -137,3 +137,6 @@ dist
 # statics
 uploads/*
 !uploads/.gitkeep 
+
+# vscode
+.vscode
